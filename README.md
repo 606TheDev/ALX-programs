@@ -1,10 +1,6 @@
-# ALX-programs
 <div style="font-family: 'Inter', sans-serif; max-width: 900px; margin: 20px auto; padding: 30px; border-radius: 12px; background-color: #f8f8f8; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);">
 
-<div style="text-align: center; margin-bottom: 40px;">
-<h1 style="color: #2c3e50; font-size: 2.8em; margin-bottom: 10px; font-weight: 700;">👋 Hello There! I'm [Your Name]</h1>
-<p style="color: #555; font-size: 1.2em; line-height: 1.6;">Aspiring Software Engineer & ALX [Specify Program] Learner</p>
-</div>
+<div style="text-align: center; margin-bottom: 40px;"> <h1 style="color: #2c3e50; font-size: 2.8em; margin-bottom: 10px; font-weight: 700;">👋 Hello There! I'm [Bob Kamoni]</h1> <p style="color: #555; font-size: 1.2em; line-height: 1.6;">Aspiring Software Engineer & ALX [Front-End Web Development] Learner</p> </div>
 
 <div style="background-color: #ffffff; padding: 25px; border-radius: 10px; margin-bottom: 30px; border: 1px solid #e0e0e0;">
 <h2 style="color: #34495e; font-size: 1.8em; margin-bottom: 15px; border-bottom: 2px solid #3498db; padding-bottom: 8px;">🚀 About My Journey into Software Engineering</h2>
@@ -54,27 +50,7 @@ I am continuously expanding my technical toolkit. Here are some of the technolog
 </div>
 </div>
 
-<div style="background-color: #ffffff; padding: 25px; border-radius: 10px; margin-bottom: 30px; border: 1px solid #e0e0e0;">
-<h2 style="color: #34495e; font-size: 1.8em; margin-bottom: 15px; border-bottom: 2px solid #3498db; padding-bottom: 8px;">🌟 My Projects</h2>
-<p style="color: #444; line-height: 1.7; font-size: 1.1em;">
-Here are some of the projects I've worked on, or am currently developing, that showcase my skills and passion. Feel free to explore them!
-</p>
-<ul style="list-style-type: none; padding: 0; margin-top: 20px;">
-<li style="margin-bottom: 15px; padding: 15px; background-color: #f2f2f2; border-radius: 8px;">
-<h3 style="color: #2c3e50; font-size: 1.4em; margin-bottom: 8px;">[Project Name 1]</h3>
-<p style="color: #555; font-size: 1em; margin-bottom: 10px;">[Brief description of Project 1, highlighting its purpose and what you learned or achieved.]</p>
-<a href="[Link to Project 1 Repo]" style="color: #3498db; text-decoration: none; font-weight: 600;">View Project &rarr;</a>
-<span style="margin-left: 15px; color: #777; font-size: 0.9em;">Technologies: [Tech 1], [Tech 2], [Tech 3]</span>
-</li>
-<li style="margin-bottom: 15px; padding: 15px; background-color: #f2f2f2; border-radius: 8px;">
-<h3 style="color: #2c3e50; font-size: 1.4em; margin-bottom: 8px;">[Project Name 2]</h3>
-<p style="color: #555; font-size: 1em; margin-bottom: 10px;">[Brief description of Project 2, highlighting its purpose and what you learned or achieved.]</p>
-<a href="[Link to Project 2 Repo]" style="color: #3498db; text-decoration: none; font-weight: 600;">View Project &rarr;</a>
-<span style="margin-left: 15px; color: #777; font-size: 0.9em;">Technologies: [Tech 1], [Tech 2], [Tech 3]</span>
-</li>
-<!-- Add more project entries as you complete them -->
-</ul>
-</div>
+<div style="background-color: #ffffff; padding: 25px; border-radius: 10px; margin-bottom: 30px; border: 1px solid #e0e0e0;"> <h2 style="color: #34495e; font-size: 1.8em; margin-bottom: 15px; border-bottom: 2px solid #3498db; padding-bottom: 8px;">🌟 My Projects</h2> <p style="color: #444; line-height: 1.7; font-size: 1.1em;"> Here are some of the projects I've worked on, or am currently developing, that showcase my skills and passion. Feel free to explore them! </p> <ul style="list-style-type: none; padding: 0; margin-top: 20px;"> <li style="margin-bottom: 15px; padding: 15px; background-color: #f2f2f2; border-radius: 8px;"> <h3 style="color: #2c3e50; font-size: 1.4em; margin-bottom: 8px;">[Women Empowerment App Framework]</h3> <p style="color: #555; font-size: 1em; margin-bottom: 10px;">[Brief description of Project 1, highlighting its purpose and what you learned or achieved.]</p> <a href="[Link to Project 1 Repo]" style="color: #3498db; text-decoration: none; font-weight: 600;">View Project &rarr;</a> <span style="margin-left: 15px; color: #777; font-size: 0.9em;">Technologies: [Tech 1], [Tech 2], [Tech 3]</span> </li> <li style="margin-bottom: 15px; padding: 15px; background-color: #f2f2f2; border-radius: 8px;"> <h3 style="color: #2c3e50; font-size: 1.4em; margin-bottom: 8px;">[Project Name 2]</h3> <p style="color: #555; font-size: 1em; margin-bottom: 10px;">[Brief description of Project 2, highlighting its purpose and what you learned or achieved.]</p> <a href="[Link to Project 2 Repo]" style="color: #3498db; text-decoration: none; font-weight: 600;">View Project &rarr;</a> <span style="margin-left: 15px; color: #777; font-size: 0.9em;">Technologies: [Tech 1], [Tech 2], [Tech 3]</span> </li> <!-- Add more project entries as you complete them --> </ul> </div>
 
 <div style="background-color: #ffffff; padding: 25px; border-radius: 10px; margin-bottom: 30px; border: 1px solid #e0e0e0;">
 <h2 style="color: #34495e; font-size: 1.8em; margin-bottom: 15px; border-bottom: 2px solid #3498db; padding-bottom: 8px;">📈 GitHub Stats & Badges</h2>
