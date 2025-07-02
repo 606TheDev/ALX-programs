@@ -1,6 +1,6 @@
 <div style="font-family: 'Inter', sans-serif; max-width: 900px; margin: 20px auto; padding: 30px; border-radius: 12px; background-color: #f8f8f8; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);">
 
-<div style="text-align: center; margin-bottom: 40px;"> <h1 style="color: #2c3e50; font-size: 2.8em; margin-bottom: 10px; font-weight: 700;">👋 Hello There! I'm Bob Kamoni</h1> <p style="color: #555; font-size: 1.2em; line-height: 1.6;">Aspiring Software Engineer & ALX [Front-End Web Development] Learner</p> </div>
+<div style="text-align: center; margin-bottom: 40px;"> <h1 style="color: #2c3e50; font-size: 2.8em; margin-bottom: 10px; font-weight: 700;">👋 Hello There! I'm Bob Kamoni</h1> <p style="color: #555; font-size: 1.2em; line-height: 1.6;">Aspiring Software Engineer & ALX Front-End Web Development Learner</p> </div>
 
 <div style="background-color: #ffffff; padding: 25px; border-radius: 10px; margin-bottom: 30px; border: 1px solid #e0e0e0;">
 <h2 style="color: #34495e; font-size: 1.8em; margin-bottom: 15px; border-bottom: 2px solid #3498db; padding-bottom: 8px;">🚀 About My Journey into Software Engineering</h2>
