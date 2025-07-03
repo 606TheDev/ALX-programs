@@ -36,6 +36,7 @@ My ultimate aim as a developer is to craft programs that are not just functional
 I am continuously expanding my technical toolkit. Here are some of the technologies and tools I'm proficient in or actively learning:
 </p>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+  <li>
   <ul>
     <div>
       <span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">Python (Learning)</span>
@@ -66,6 +67,7 @@ I am continuously expanding my technical toolkit. Here are some of the technolog
   </div>
   <!-- Add more skills as you acquire them! -->
   </ul>
+  </li>
 </div>
 </div>
 
@@ -91,7 +93,7 @@ You can add dynamic GitHub stats and badges here to showcase your activity and c
 I'm always open to collaborating on interesting projects, discussing new technologies, or just connecting with fellow developers. Feel free to reach out!
 </p>
 <div style="margin-top: 20px; text-align: center;">
-<a href="www.linkedin.com/in/bob-kamoni-6b1315366" target="_blank" style="display: inline-block; margin: 0 10px; text-decoration: none; color: #0077B5; font-size: 1.2em; font-weight: 600;">LinkedIn</a>
+<a href="https://www.linkedin.com/in/bob-kamoni-6b1315366/" target="_blank" style="display: inline-block; margin: 0 10px; text-decoration: none; color: #0077B5; font-size: 1.2em; font-weight: 600;">LinkedIn</a>
 <!--<a href="https://twitter.com/[YourTwitterHandle]" target="_blank" style="display: inline-block; margin: 0 10px; text-decoration: none; color: #1DA1F2; font-size: 1.2em; font-weight: 600;">Twitter</a>-->
 <a href="mailto:bobkamoni1@gmail.com" style="display: inline-block; margin: 0 10px; text-decoration: none; color: #D44638; font-size: 1.2em; font-weight: 600;">Email</a>
 <!-- Add more social links as needed -->
