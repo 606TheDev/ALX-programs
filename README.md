@@ -8,7 +8,7 @@
 My journey into software engineering began because I wanted to pursue my interests in learning how to create interactive and user-friendly websites that make a difference in peoples' everyday lives. I am deeply passionate about creating life changing and empowering solutions that are simple to use and understand and find immense inspiration from wanting to see improvements and making small changes everyday.
 </p>
 <p style="color: #444; line-height: 1.7; font-size: 1.1em; margin-top: 15px;">
-As a dedicated learner in the ALX [Specify Program] program, I am constantly expanding my knowledge and honing my skills to build impactful solutions.
+As a dedicated learner in the ALX Front-End Web Development program, I am constantly expanding my knowledge and honing my skills to build impactful solutions.
 </p>
 </div>
 
@@ -36,7 +36,7 @@ My ultimate aim as a developer is to craft programs that are not just functional
 I am continuously expanding my technical toolkit. Here are some of the technologies and tools I'm proficient in or actively learning:
 </p>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
-  <ol>
+  <ul>
     <div>
       <span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">Python (Learning)</span>
     </div>
@@ -65,7 +65,7 @@ I am continuously expanding my technical toolkit. Here are some of the technolog
     <span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">Node.js (Learning)</span>
   </div>
   <!-- Add more skills as you acquire them! -->
-  </ol>
+  </ul>
 </div>
 </div>
 
