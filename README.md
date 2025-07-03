@@ -36,16 +36,36 @@ My ultimate aim as a developer is to craft programs that are not just functional
 I am continuously expanding my technical toolkit. Here are some of the technologies and tools I'm proficient in or actively learning:
 </p>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
-<span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">Python (Learning)</span>
-<span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">C (Learning)</span>
-<span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">JavaScript (Learning)</span>
-<span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">HTML5 (Learning)</span>
-<span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">CSS3 (Learning)</span>
-<span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">Bash Scripting (Learning)</span>
-<span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">Git & GitHub(Learning)</span>
-<span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">React (Learning)</span>
-<span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">Node.js (Learning)</span>
-<!-- Add more skills as you acquire them! -->
+  <ol>
+    <div>
+      <span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">Python (Learning)</span>
+    </div>
+  <div>
+    <span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">C (Learning)</span>
+  </div>
+  <div>
+    <span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">JavaScript (Learning)</span>
+  </div>
+  <div>
+    <span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">HTML5 (Learning)</span>
+  </div>
+  <div>
+    <span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">CSS3 (Learning)</span>
+  </div>
+  <div>
+    <span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">Bash Scripting (Learning)</span>
+  </div>
+  <div>
+    <span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">Git & GitHub(Learning)</span>
+  <div>
+  <div>
+    <span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">React (Learning)</span>
+  </div>
+  <div>
+    <span style="background-color: #ecf0f1; color: #34495e; padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 0.9em;">Node.js (Learning)</span>
+  </div>
+  <!-- Add more skills as you acquire them! -->
+  </ol>
 </div>
 </div>
 
