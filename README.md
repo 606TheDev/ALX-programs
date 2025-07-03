@@ -5,7 +5,7 @@
 <div style="background-color: #ffffff; padding: 25px; border-radius: 10px; margin-bottom: 30px; border: 1px solid #e0e0e0;">
 <h2 style="color: #34495e; font-size: 1.8em; margin-bottom: 15px; border-bottom: 2px solid #3498db; padding-bottom: 8px;">🚀 About My Journey into Software Engineering</h2>
 <p style="color: #444; line-height: 1.7; font-size: 1.1em;">
-My journey into software engineering began because [insert why you started software engineering]. I am deeply passionate about [insert what you are passionate about] and find immense inspiration from [insert what inspires you].
+My journey into software engineering began because I wanted to pursue my interests in learning how to create interactive and user-friendly websites that make a difference in peoples' everyday lives. I am deeply passionate about creating life changing and empowering solutions that are simple to use and understand and find immense inspiration from wanting to see improvements and making small changes everyday.
 </p>
 <p style="color: #444; line-height: 1.7; font-size: 1.1em; margin-top: 15px;">
 As a dedicated learner in the ALX [Specify Program] program, I am constantly expanding my knowledge and honing my skills to build impactful solutions.
@@ -91,7 +91,7 @@ You can add dynamic GitHub stats and badges here to showcase your activity and c
 I'm always open to collaborating on interesting projects, discussing new technologies, or just connecting with fellow developers. Feel free to reach out!
 </p>
 <div style="margin-top: 20px; text-align: center;">
-<a href="https://linkedin.com/in/www.linkedin.com/in/bob-kamoni-6b1315366" target="_blank" style="display: inline-block; margin: 0 10px; text-decoration: none; color: #0077B5; font-size: 1.2em; font-weight: 600;">LinkedIn</a>
+<a href="www.linkedin.com/in/bob-kamoni-6b1315366" target="_blank" style="display: inline-block; margin: 0 10px; text-decoration: none; color: #0077B5; font-size: 1.2em; font-weight: 600;">LinkedIn</a>
 <!--<a href="https://twitter.com/[YourTwitterHandle]" target="_blank" style="display: inline-block; margin: 0 10px; text-decoration: none; color: #1DA1F2; font-size: 1.2em; font-weight: 600;">Twitter</a>-->
 <a href="mailto:bobkamoni1@gmail.com" style="display: inline-block; margin: 0 10px; text-decoration: none; color: #D44638; font-size: 1.2em; font-weight: 600;">Email</a>
 <!-- Add more social links as needed -->
@@ -99,7 +99,7 @@ I'm always open to collaborating on interesting projects, discussing new technol
 </div>
 
 <p style="text-align: center; color: #777; font-size: 0.9em; margin-top: 40px;">
-&copy; [Current Year] [Your Name]. All rights reserved.
+&copy; 2025 Bob Kamoni. All rights reserved.
 </p>
 
 </div>
